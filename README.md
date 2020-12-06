@@ -1,5 +1,4 @@
 # KotlinScripts
 
-Sample scripts
-
-kotlinc -cp "<path kotlin-main-kts.jar>" -script "<path script file>"
+<p><strong>Sample scripts</strong></p>
+<p>kotlinc -cp &lt;path kotlin-main-kts.jar&gt; -script &lt;path script file&gt;</p>
